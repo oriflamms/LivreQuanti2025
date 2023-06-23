@@ -1,0 +1,27 @@
+Angers, Musée des Beaux-Arts, 2003.1.788	https://bvmm.irht.cnrs.fr/iiif/1390/manifest
+
+
+
+
+
+
+Philadelphia, University of Pennsylvania, Kislak Center for Special Collections, Rare Books and Manuscripts, Ms. Coll. 591 Folder 27	https://colenda.library.upenn.edu/phalt/iiif/2/81431-p3r07g/manifest
+Philadelphia, University of Pennsylvania, Library at the Herbert D. Katz Center for Advanced Judaic Studies, CAJS Rar Ms 416	https://colenda.library.upenn.edu/phalt/iiif/2/81431-p33j9v/manifest
+Philadelphia, University of Pennsylvania, Kislak Center for Special Collections, Rare Books and Manuscripts, Ms. Coll. 591 Folder 32	https://colenda.library.upenn.edu/phalt/iiif/2/81431-p3348gr9b/manifest
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, MS18	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll180/71/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, Ege Manuscript 30	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll210/77/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, Ege Manuscript 31	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll210/50/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, Ege Manuscript 36	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll210/56/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, Ege Manuscript 43	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll210/137/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, Ege Manuscript 45	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll210/80/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, Ege Manuscript 46	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll210/107/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, Ege Manuscript 47	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll210/131/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, Ege Manuscript 48	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll210/38/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, Ege Manuscript 50	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll210/140/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, MS24	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll180/74/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, MS25	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll180/47/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, MS26	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll180/50/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, MS38	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll180/38/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, Ege Manuscript 25	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll210/62/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, Ege Manuscript 28	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll210/20/manifest.json
+Minneapolis, University of Minnesota Libraries, Special Collections and Rare Books, Ege Manuscript 29	https://cdm16022.contentdm.oclc.org/iiif/info/p16022coll210/134/manifest.json
